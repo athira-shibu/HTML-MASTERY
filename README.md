@@ -1,3 +1,3 @@
 # HTML-MASTERY
 
--> HTML Geolocattion API
+-> HTML Geolocation API
